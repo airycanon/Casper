@@ -1478,7 +1478,7 @@ body:not(.post-template) .post-title {
     transition: all 0.5s ease;
 }
 .read-next-story.prev .post:before {
-    content: "你可能会喜欢";
+    content: "您可能会喜欢";
 }
 
 .read-next-story h2 {
